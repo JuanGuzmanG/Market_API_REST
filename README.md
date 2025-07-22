@@ -7,3 +7,7 @@ Desarrollé una API REST utilizando el framework Spring Boot, enfocada en la ges
 ![getAll](src/main/resources/static/getAll.PNG)
 ![getAllproducts](src/main/resources/static/getAllProducts.PNG)
 ![getByID](src/main/resources/static/getByID.PNG)
+
+### POST and PUT
+![POST](src/main/resources/static/saveMaker.PNG)
+![PUT](src/main/resources/static/update.PNG)
