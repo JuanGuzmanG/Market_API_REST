@@ -5,3 +5,5 @@ Desarrollé una API REST utilizando el framework Spring Boot, enfocada en la ges
 ## 🛠Pruebas Postman
 ### GET
 ![getAll](src/main/resources/static/getAll.PNG)
+![getAllproducts](src/main/resources/static/getAllProducts.PNG)
+![getByID](src/main/resources/static/getByID.PNG)
